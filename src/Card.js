@@ -16,5 +16,3 @@ class Card extends Component {
 }
 
 export default Card;
-
-//random comment to test git
